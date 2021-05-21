@@ -1,4 +1,10 @@
 # FiveM-Assets
-Contains Assets/Scripts/Vehicles 
+Contains 
+
+~Assets
+~Scripts
+~Vehicles 
+~ESX
+~VRP
 
 -Icmp
