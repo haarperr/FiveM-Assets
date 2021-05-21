@@ -1,0 +1,17 @@
+#gr8_newsstand{
+  display: none;
+}
+#gr8_newsstand .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 774px;									
+	height:1900px;									
+	left:50%;										
+	top:35%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('img/newspaper.png') no-repeat;	
+	background-size: contain;			
+	padding: none; 								
+    
+}

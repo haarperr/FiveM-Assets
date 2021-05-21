@@ -1,0 +1,135 @@
+#mcard{
+  display: none;
+}
+#mcard .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 400px;									
+	height:400px;									
+	left:105%;										
+	top:90%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('img/bg-img.png') no-repeat;				
+	padding: none; 								
+    
+}
+
+#vcard{
+	display: none;
+}
+
+#vcard .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 1200px;									
+	height:801px;									
+	left:45%;										
+	top:40%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('img/bg-img2.png') no-repeat;				
+	padding: none; 							
+}
+
+#bcard{
+	display: none;
+}
+
+#bcard .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 744px;									
+	height:1052px;									
+	left:55%;										
+	top:33.5%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('img/bg-img3.png') no-repeat;				
+	padding: none; 							
+}
+
+#vucard{
+	display: none;
+}
+
+#vucard .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 469px;									
+	height:663px;									
+	left:62.5%;										
+	top:50%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('img/bg-img4.png') no-repeat;				
+	padding: none; 							
+}
+
+#pcard{
+	display: none;
+}
+
+#pcard .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 800px;									
+	height:1000px;									
+	left:55.0%;										
+	top:35%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('img/bg-img5.png') no-repeat;				
+	padding: none; 							
+}
+
+#yjcard{
+	display: none;
+}
+
+#yjcard .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 800px;									
+	height:1000px;									
+	left:55.0%;										
+	top:35%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('img/bg-img6.png') no-repeat;				
+	padding: none; 							
+}
+
+#tcard{
+	display: none;
+}
+
+#tcard .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 772px;									
+	height:1000px;									
+	left:55.0%;										
+	top:35%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('img/bg-img7.png') no-repeat;				
+	padding: none; 							
+}
+
+#bmcard{
+	display: none;
+}
+
+#bmcard .contenair{
+	position:fixed;
+	z-index: 2;    
+	width: 428px;									
+	height:1000px;									
+	left:65.0%;										
+	top:35%;										
+	margin:-350px 0 0 -500px;    					
+	text-align: center;
+	background: url('img/bg-img8.png') no-repeat;				
+	padding: none; 							
+}
